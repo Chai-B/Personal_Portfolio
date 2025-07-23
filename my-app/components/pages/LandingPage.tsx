@@ -2,7 +2,7 @@ import React from "react";
 import { Boxes } from "@/components/Boxes";
 import { cn } from "@/lib/utils";
 import { HomeDock } from "@/components/AppBar";
-import { BentoCard, BentoGrid } from "@/components/magicui/bento-grid";
+import { BentoCard, BentoGrid } from "@/components/magicui/NameCard";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 
 // Overlay for the radial mask effect
